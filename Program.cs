@@ -12,6 +12,7 @@ namespace HW11_13_04
     }
     class Shop
     {
+        public int Id{get;set;}
         public string LastName{get;set;}
         public string FirstName{get;set;}
         public int Age{get;set;}
