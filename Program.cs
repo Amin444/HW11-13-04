@@ -6,11 +6,11 @@ namespace HW11_13_04
     {
         static void Main(string[] args)
         {
-           Table table=new Table();
+           Shop table=new Shop();
         
         }
     }
-    class Table
+    class Shop
     {
         public string LastName{get;set;}
         public string FirstName{get;set;}
